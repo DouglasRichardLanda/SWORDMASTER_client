@@ -4,7 +4,7 @@
 export default function LandingPage () {
 
   return (
-    <section>
+    <section className={`text-5xl`}>
       LANDING PAGE
     </section>
   )
