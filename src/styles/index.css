@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 :root {
-    @apply min-h-screen bg-sky-100 text-gray-800 font-ubuntu;
+    @apply bg-sky-100 text-gray-800 font-ubuntu;
 }
